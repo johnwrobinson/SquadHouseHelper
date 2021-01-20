@@ -1,0 +1,2 @@
+# SquadHouseHelper
+A Discord bot.
